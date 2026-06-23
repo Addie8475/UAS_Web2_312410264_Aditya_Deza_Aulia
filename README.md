@@ -4,6 +4,9 @@
 
 <img width="712" height="526" alt="401 Unauthorized" src="https://github.com/user-attachments/assets/304e0385-3e62-4880-88e4-233dcbcb5141" />
 
+<img width="272" height="324" alt="Is Logged in" src="https://github.com/user-attachments/assets/a039c95a-92a6-4aea-a2d1-b01f9fe8f0a6" />
+
+
 <img width="728" height="544" alt="Screenshot_31" src="https://github.com/user-attachments/assets/e4dd6c0c-fc2a-46f9-aebc-6e8498016f22" />
 
 
