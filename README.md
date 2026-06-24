@@ -7,8 +7,7 @@
 * Nama : Aditya
 * NIM : 312410264
 * Mata Kuliah : Pemrograman Web 2
-* Dosen Pengampu : [Nama Dosen]
-
+* Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom., S.Kom., M. Kom
 ---
 
 ## Deskripsi Proyek
@@ -106,9 +105,10 @@ kategori (1) ---- (N) barang
 
 ## Screenshot Database Designer
 
-Tambahkan screenshot relasi tabel dari phpMyAdmin pada bagian ini.
+<img width="223" height="122" alt="Database" src="https://github.com/user-attachments/assets/d429ddb9-6981-445e-8a98-e94211232b87" />
 
-![Relasi Database](screenshots/database-relasi.png)
+<img width="924" height="157" alt="Database2" src="https://github.com/user-attachments/assets/852b225d-2841-4f5f-894e-a6e09574b487" />
+
 
 ---
 
@@ -252,10 +252,6 @@ Password : admin123
 https://github.com/Addie8475/UAS_Web2_312410264_Aditya_Deza_Aulia
 
 ---
-
-## Link Demo
-
-https://demo-aplikasi.com
 
 ---
 
